@@ -1,0 +1,20 @@
+# Mac 冗余文件
+.DS_Store
+
+# NPM, Yarn 相关
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+node_modules/
+
+# Test 相关
+.nojekyll
+
+# Editor directories and files
+.vscode/
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
